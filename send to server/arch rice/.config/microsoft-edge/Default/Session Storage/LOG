@@ -1,0 +1,43 @@
+2024/11/17-20:11:33.079 4 Reusing MANIFEST /home/ste/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2024/11/17-20:11:33.081 4 Recovering log #3034
+2024/11/17-20:11:33.082 4 Reusing old log /home/ste/.config/microsoft-edge/Default/Session Storage/003034.log 
+2024/11/17-20:11:45.188 6 Level-0 table #3038: started
+2024/11/17-20:11:45.190 6 Level-0 table #3038: 39362 bytes OK
+2024/11/17-20:11:45.192 6 Delete type=0 #3034
+2024/11/17-20:11:45.192 6 Compacting 4@0 + 1@1 files
+2024/11/17-20:11:45.203 6 Generated table #3039@0: 6675 keys, 136638 bytes
+2024/11/17-20:11:45.203 6 Compacted 4@0 + 1@1 files => 136638 bytes
+2024/11/17-20:11:45.205 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/17-20:11:45.206 6 Delete type=2 #3031
+2024/11/17-20:11:45.206 6 Delete type=2 #3033
+2024/11/17-20:11:45.206 6 Delete type=2 #3038
+2024/11/17-20:11:45.206 6 Delete type=2 #3029
+2024/11/17-20:11:45.206 6 Delete type=2 #3035
+2024/11/17-20:11:45.213 6 Level-0 table #3041: started
+2024/11/17-20:11:45.215 6 Level-0 table #3041: 35867 bytes OK
+2024/11/17-20:11:45.216 6 Delete type=0 #3037
+2024/11/17-20:11:45.749 6 Level-0 table #3043: started
+2024/11/17-20:11:45.753 6 Level-0 table #3043: 35867 bytes OK
+2024/11/17-20:11:45.756 6 Delete type=0 #3040
+2024/11/17-20:11:45.975 6 Level-0 table #3045: started
+2024/11/17-20:11:45.979 6 Level-0 table #3045: 35867 bytes OK
+2024/11/17-20:11:45.982 6 Delete type=0 #3042
+2024/11/17-20:12:21.585 6 Level-0 table #3047: started
+2024/11/17-20:12:21.589 6 Level-0 table #3047: 35867 bytes OK
+2024/11/17-20:12:21.594 6 Delete type=0 #3044
+2024/11/17-20:12:21.595 6 Expanding@0 1+1 (35867+136638 bytes) to 4+1 (143468+136638 bytes)
+2024/11/17-20:12:21.595 6 Compacting 4@0 + 1@1 files
+2024/11/17-20:12:21.605 6 Generated table #3048@0: 6679 keys, 279810 bytes
+2024/11/17-20:12:21.605 6 Compacted 4@0 + 1@1 files => 279810 bytes
+2024/11/17-20:12:21.606 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/17-20:12:21.607 6 Delete type=2 #3043
+2024/11/17-20:12:21.608 6 Delete type=2 #3041
+2024/11/17-20:12:21.608 6 Delete type=2 #3045
+2024/11/17-20:12:21.608 6 Delete type=2 #3039
+2024/11/17-20:12:21.608 6 Delete type=2 #3047
+2024/11/17-20:12:34.224 6 Level-0 table #3050: started
+2024/11/17-20:12:34.233 6 Level-0 table #3050: 36065 bytes OK
+2024/11/17-20:12:34.234 6 Delete type=0 #3046
+2024/11/17-20:12:39.763 6 Level-0 table #3052: started
+2024/11/17-20:12:39.767 6 Level-0 table #3052: 35867 bytes OK
+2024/11/17-20:12:39.769 6 Delete type=0 #3049

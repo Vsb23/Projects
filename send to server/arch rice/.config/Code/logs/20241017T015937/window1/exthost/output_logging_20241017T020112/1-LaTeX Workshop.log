@@ -1,0 +1,108 @@
+[02:01:56.742][Logger] New log placeholder %WS1% registered for /home/ste/OneDrive/Università/Documenti/Latex Layout/cornell note taking .
+[02:01:56.742][Extension] Initializing LaTeX Workshop.
+[02:01:57.005][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[02:01:57.006][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[02:01:57.078][Server] Creating LaTeX Workshop http and websocket server.
+[02:01:57.271][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[02:01:57.351][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":40745} .
+[02:01:57.360][Extension] Extension root: /home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3
+[02:01:57.362][Extension] $PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[02:01:57.362][Extension] $SHELL: /usr/bin/bash
+[02:01:57.362][Extension] $LANG: it_IT.UTF-8
+[02:01:57.363][Extension] $LC_ALL: undefined
+[02:01:57.363][Extension] process.platform: linux
+[02:01:57.363][Extension] process.arch: x64
+[02:01:57.363][Extension] vscode.env.appName: Visual Studio Code
+[02:01:57.364][Extension] vscode.env.remoteName: undefined
+[02:01:57.364][Extension] vscode.env.uiKind: 1
+[02:01:57.461][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[02:01:57.464][Root] Current workspace folders: ["file://%WS1%"]
+[02:01:57.465][Root] Try finding root from magic comment.
+[02:01:57.465][Extension] LaTeX Workshop initialized.
+[02:01:57.466][Root] Try finding root from active editor.
+[02:01:57.467][Root] Found root file from active editor: %WS1%/cornell.tex
+[02:01:57.467][Root] Root file changed: from %WS1%/cornell.tex to %WS1%/cornell.tex, langID latex . Refresh dependencies
+[02:01:57.468][Event] ROOT_FILE_CHANGED: "%WS1%/cornell.tex"
+[02:01:57.468][Cacher][Watcher] Reset.
+[02:01:57.469][Cacher][Watcher] Reset.
+[02:01:57.476][Cacher] Adding %WS1%/cornell.tex .
+[02:01:57.478][Cacher][Watcher] Watched file://%WS1%/cornell.tex with a new .* watcher on %WS1% .
+[02:01:57.479][Event] FILE_WATCHED: "file://%WS1%/cornell.tex"
+[02:01:57.483][Cacher] Caching %WS1%/cornell.tex .
+[02:01:57.484][Event] ROOT_FILE_SEARCHED
+[02:01:57.489][Server] validOrigin is http://127.0.0.1:40745
+[02:01:57.520][Cacher] Updated inputs of %WS1%/cornell.tex .
+[02:01:57.521][Cacher] Parse LaTeX AST: %WS1%/cornell.tex .
+[02:01:57.686][Cacher] Parsed LaTeX AST in 164.01 ms: %WS1%/cornell.tex .
+[02:01:57.695][File] Calling kpsewhich to resolve article.cls .
+[02:01:57.714][File] kpsewhich returned with non-zero code null.
+[02:01:57.722][Cacher] Updated elements in 35.27 ms: %WS1%/cornell.tex .
+[02:01:57.723][Event] FILE_PARSED: "%WS1%/cornell.tex"
+[02:01:57.731][Structure] Structure force updated with 0 root sections for %WS1%/cornell.tex .
+[02:01:57.732][Event] STRUCTURE_UPDATED
+[02:01:57.755][Cacher] Parsing .fls %WS1%/cornell.fls .
+[02:01:57.818][Cacher] Found .aux %WS1%/cornell.aux from .fls %WS1%/cornell.fls , parsing.
+[02:01:57.821][Cacher] Parsed .aux %WS1%/cornell.aux .
+[02:01:57.822][Cacher] Parsed .fls %WS1%/cornell.fls .
+[02:02:08.272][Commander] VIEW command invoked with mode: file:///home/ste/OneDrive/Universit%C3%A0/Documenti/Latex%20Layout/cornell%20note%20taking/cornell.tex.
+[02:02:08.273][Root] Current workspace folders: ["file://%WS1%"]
+[02:02:08.273][Root] Try finding root from magic comment.
+[02:02:08.274][Root] Try finding root from active editor.
+[02:02:08.274][Root] Found root file from active editor: %WS1%/cornell.tex
+[02:02:08.275][Root] Keep using the same root file: %WS1%/cornell.tex
+[02:02:08.275][Event] ROOT_FILE_SEARCHED
+[02:02:08.275][Event] STRUCTURE_UPDATED
+[02:02:08.391][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40745/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZzdGUlMkZPbmVEcml2ZSUyRlVuaXZlcnNpdCVDMyVBMCUyRkRvY3VtZW50aSUyRkxhdGV4JTIwTGF5b3V0JTJGY29ybmVsbCUyMG5vdGUlMjB0YWtpbmclMkZjb3JuZWxsLnBkZg .
+[02:02:08.392][Cacher][Watcher] Watched file://%WS1%/cornell.pdf with a new .pdf watcher on %WS1% .
+[02:02:08.393][Event] FILE_WATCHED: "file://%WS1%/cornell.pdf"
+[02:02:08.432][Event] STRUCTURE_UPDATED
+[02:02:08.450][Viewer] Open PDF tab for file://%WS1%/cornell.pdf
+[02:02:08.667][Viewer] Handle data type: open
+[02:02:09.313][Server] Preview PDF file: file://%WS1%/cornell.pdf
+[02:02:09.542][Viewer] Handle data type: loaded
+[02:02:09.543][Event] VIEWER_PAGE_LOADED
+[02:02:20.274][Extension] onDidSaveTextDocument triggered: file://%WS1%/cornell.tex
+[02:02:20.341][Cacher][Watcher] "change" emitted on file://%WS1%/cornell.tex.
+[02:02:20.346][Cacher] Caching %WS1%/cornell.tex .
+[02:02:20.347][Build] Auto build started detecting the change of a file: %WS1%/cornell.tex .
+[02:02:20.347][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/cornell.tex"}
+[02:02:20.348][Build] The document of the active editor: file://%WS1%/cornell.tex
+[02:02:20.348][Build] The languageId of the document: latex
+[02:02:20.349][Build] Building root file: %WS1%/cornell.tex
+[02:02:20.349][Build][Recipe] Build root file %WS1%/cornell.tex
+[02:02:20.350][Event] FILE_CHANGED: "file://%WS1%/cornell.tex"
+[02:02:20.356][Cacher] Updated inputs of %WS1%/cornell.tex .
+[02:02:20.357][Cacher] Parse LaTeX AST: %WS1%/cornell.tex .
+[02:02:20.358][Build][Recipe] Preparing to run recipe: latexmk.
+[02:02:20.359][Build][Recipe] Prepared 1 tools.
+[02:02:20.368][Build][Recipe] Cannot run `pdflatex` to determine if we are using MiKTeX. TypeError: Cannot read properties of null (reading 'toString')
+[02:02:20.369]TypeError: Cannot read properties of null (reading 'toString')
+	at isMikTeX (/home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/recipe.js:368:80)
+	at /home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/recipe.js:346:63
+	at Array.forEach (<anonymous>)
+	at populateTools (/home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/recipe.js:313:16)
+	at createBuildTools (/home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/recipe.js:159:5)
+	at async build (/home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/recipe.js:54:19)
+	at async build (/home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.3/out/src/compile/build.js:142:5)
+[02:02:20.370][Build][Recipe] outDir: %WS1% .
+[02:02:20.373][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/cornell"].
+[02:02:20.373][Build] env: {}
+[02:02:20.374][Build] root: %WS1%/cornell.tex
+[02:02:20.374][Build] cwd: %WS1%
+[02:02:20.381][Build] LaTeX build process spawned with PID undefined.
+[02:02:20.383][Build] LaTeX fatal error on PID undefined. Error: spawn latexmk ENOENT
+[02:02:20.384]Error: spawn latexmk ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[02:02:20.384][Build] Does the executable exist? $PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl, $Path: undefined, $SHELL: /usr/bin/bash
+[02:02:20.384][Build] 
+[02:02:20.396][Cacher] Parsed LaTeX AST in 39.16 ms: %WS1%/cornell.tex .
+[02:02:20.397][File] Calling kpsewhich to resolve article.cls .
+[02:02:20.403][File] kpsewhich returned with non-zero code null.
+[02:02:20.406][Cacher] Updated elements in 9.69 ms: %WS1%/cornell.tex .
+[02:02:20.407][Event] FILE_PARSED: "%WS1%/cornell.tex"
+[02:02:20.409][Structure] Structure force updated with 0 root sections for %WS1%/cornell.tex .
+[02:02:20.410][Event] STRUCTURE_UPDATED
+[02:03:56.477][Cacher][Watcher] Reset.
+[02:03:56.478][Cacher][Watcher] Reset.

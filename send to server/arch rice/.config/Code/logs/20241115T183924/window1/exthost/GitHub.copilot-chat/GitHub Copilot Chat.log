@@ -1,0 +1,26 @@
+2024-11-15 18:39:33.354 [info] Using the Electron fetcher.
+2024-11-15 18:39:33.354 [info] Initializing Git extension service.
+2024-11-15 18:39:33.354 [info] Successfully activated the vscode.git extension.
+2024-11-15 18:39:33.354 [info] Enablement state of the vscode.git extension: true.
+2024-11-15 18:39:33.354 [info] Successfully registered Git commit message provider.
+2024-11-15 18:39:35.960 [info] Logged in as Vsb23
+2024-11-15 18:39:36.903 [info] Got Copilot token for Vsb23
+2024-11-15 18:39:36.980 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-15 18:39:36.980 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-15 18:39:37.010 [info] Registering default platform agent...
+2024-11-15 18:39:37.676 [info] Fetched model metadata in 760ms 6a0d2be2-918e-43db-b1b3-5fa62eb823e9
+2024-11-15 18:39:38.351 [info] activationBlocker from 'languageModelAccess' took for 3030ms
+2024-11-15 18:54:39.169 [info] Fetched model metadata in 779ms 7b209dce-a5c2-4740-af8e-a1dab72dc586
+2024-11-15 19:04:36.916 [info] Logged in as Vsb23
+2024-11-15 19:04:37.906 [info] Got Copilot token for Vsb23
+2024-11-15 19:04:37.923 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-15 19:09:40.083 [info] Fetched model metadata in 908ms bbd1c516-96c0-490c-9825-efa3027cf14b
+2024-11-15 19:24:40.895 [info] Fetched model metadata in 804ms 22e7f9b4-adc9-4860-b476-ed909213c32a
+2024-11-15 19:29:37.916 [info] Logged in as Vsb23
+2024-11-15 19:29:39.053 [info] Got Copilot token for Vsb23
+2024-11-15 19:29:39.067 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-15 19:39:41.808 [info] Fetched model metadata in 902ms ff9422fc-fa8d-475a-9d09-e486c6b51dc7
+2024-11-15 19:54:39.063 [info] Logged in as Vsb23
+2024-11-15 19:54:39.874 [info] Got Copilot token for Vsb23
+2024-11-15 19:54:39.890 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-15 19:54:40.571 [info] Fetched model metadata in 674ms 40cb4fa3-8bd0-4833-b927-c75e0a10e2c7

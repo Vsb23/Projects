@@ -1,0 +1,62 @@
+[22:51:40.636][Logger] New log placeholder %WS1% registered for /home/ste/OneDrive/Università/Documenti/Latex Layout/cornell note taking .
+[22:51:40.636][Extension] Initializing LaTeX Workshop.
+[22:51:40.875][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[22:51:40.875][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[22:51:40.937][Server] Creating LaTeX Workshop http and websocket server.
+[22:51:41.077][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[22:51:41.147][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":34845} .
+[22:51:41.150][Extension] Extension root: /home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.5
+[22:51:41.150][Extension] $PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[22:51:41.151][Extension] $SHELL: /usr/bin/bash
+[22:51:41.151][Extension] $LANG: it_IT.UTF-8
+[22:51:41.151][Extension] $LC_ALL: undefined
+[22:51:41.151][Extension] process.platform: linux
+[22:51:41.152][Extension] process.arch: x64
+[22:51:41.153][Extension] vscode.env.appName: Visual Studio Code
+[22:51:41.153][Extension] vscode.env.remoteName: undefined
+[22:51:41.153][Extension] vscode.env.uiKind: 1
+[22:51:41.252][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[22:51:41.254][Root] Current workspace folders: ["file://%WS1%"]
+[22:51:41.255][Extension] LaTeX Workshop initialized.
+[22:51:41.255][Root] Try finding root from current workspaceRootDir: file://%WS1% .
+[22:51:41.260][Server] validOrigin is http://127.0.0.1:34845
+[22:51:41.330][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:34845/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZzdGUlMkZPbmVEcml2ZSUyRlVuaXZlcnNpdCVDMyVBMCUyRkRvY3VtZW50aSUyRkxhdGV4JTIwTGF5b3V0JTJGY29ybmVsbCUyMG5vdGUlMjB0YWtpbmclMkZjb3JuZWxsLnBkZg .
+[22:51:41.332][Cacher][Watcher] Watched file://%WS1%/cornell.pdf with a new .pdf watcher on %WS1% .
+[22:51:41.333][Event] FILE_WATCHED: "file://%WS1%/cornell.pdf"
+[22:51:41.502][Root] Found files that might be root, choose the first one: %WS1%/cornell.tex .
+[22:51:41.503][Root] Root file changed: from %WS1%/cornell.tex to %WS1%/cornell.tex, langID latex . Refresh dependencies
+[22:51:41.503][Event] ROOT_FILE_CHANGED: "%WS1%/cornell.tex"
+[22:51:41.504][Cacher][Watcher] Reset.
+[22:51:41.504][Cacher][Watcher] Reset.
+[22:51:41.512][Cacher] Adding %WS1%/cornell.tex .
+[22:51:41.512][Cacher][Watcher] Watched file://%WS1%/cornell.tex with a new .* watcher on %WS1% .
+[22:51:41.513][Event] FILE_WATCHED: "file://%WS1%/cornell.tex"
+[22:51:41.516][Cacher] Caching %WS1%/cornell.tex .
+[22:51:41.517][Event] ROOT_FILE_SEARCHED
+[22:51:41.522][Cacher] Updated inputs of %WS1%/cornell.tex .
+[22:51:41.522][Cacher] Parse LaTeX AST: %WS1%/cornell.tex .
+[22:51:41.609][Cacher] Parsed LaTeX AST in 85.98 ms: %WS1%/cornell.tex .
+[22:51:41.610][File] Calling kpsewhich to resolve article.cls .
+[22:51:41.625][File] kpsewhich returned with non-zero code null.
+[22:51:41.630][Cacher] Updated elements in 20.68 ms: %WS1%/cornell.tex .
+[22:51:41.631][Event] FILE_PARSED: "%WS1%/cornell.tex"
+[22:51:41.635][Structure] Structure force updated with 0 root sections for %WS1%/cornell.tex .
+[22:51:41.635][Event] STRUCTURE_UPDATED
+[22:51:41.637][Cacher] Parsing .fls %WS1%/cornell.fls .
+[22:51:41.676][Cacher] Found .aux %WS1%/cornell.aux from .fls %WS1%/cornell.fls , parsing.
+[22:51:41.684][Cacher] Parsed .aux %WS1%/cornell.aux .
+[22:51:41.684][Cacher] Parsed .fls %WS1%/cornell.fls .
+[22:51:41.884][Viewer] Handle data type: open
+[22:51:42.001][Server] Preview PDF file: file://%WS1%/cornell.pdf
+[22:51:42.204][Viewer] Handle data type: loaded
+[22:51:42.204][Event] VIEWER_PAGE_LOADED
+[22:51:46.551][Root] Current workspace folders: ["file://%WS1%"]
+[22:51:46.551][Root] Try finding root from magic comment.
+[22:51:46.552][Root] Try finding root from active editor.
+[22:51:46.552][Root] Found root file from active editor: %WS1%/cornell.tex
+[22:51:46.552][Root] Keep using the same root file: %WS1%/cornell.tex
+[22:51:46.553][Event] ROOT_FILE_SEARCHED
+[22:51:46.554][Event] STRUCTURE_UPDATED
+[22:51:46.555][Event] STRUCTURE_UPDATED
+[22:52:03.496][Cacher][Watcher] Reset.
+[22:52:03.497][Cacher][Watcher] Reset.

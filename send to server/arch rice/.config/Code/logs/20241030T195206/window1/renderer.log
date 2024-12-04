@@ -1,0 +1,4 @@
+2024-10-30 19:52:09.954 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-10-30 19:52:10.159 [info] Started local extension host with pid 2053.
+2024-10-30 19:52:11.793 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-10-30 19:52:15.079 [info] [perf] Render performance baseline is 42ms

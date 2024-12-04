@@ -1,0 +1,602 @@
+{
+   "checksum": "39bbaa4280ae634aafee88dedf4dec46",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13348669779287231",
+               "date_last_used": "13360711238341545",
+               "guid": "eb3992ad-ef2f-4914-905c-72f486ab107f",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Home",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.office.com/?auth=2",
+               "visit_count": 0
+            }, {
+               "date_added": "13348669788678219",
+               "date_last_used": "13360674143543559",
+               "guid": "88155ec2-31e0-4001-9458-2e957288df30",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mail",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://outlook.office.com/mail/",
+               "visit_count": 0
+            }, {
+               "date_added": "13348669794477743",
+               "date_last_used": "13361398347022822",
+               "guid": "b4fcf3de-f33a-4c81-8b2c-4d0fee1bf73d",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Teams",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://teams.microsoft.com/_#/school/conversations/Generale?threadId=19:-Y97ds9x_IroLnbprmNrtW-S4lv6lLmUHBjA3zdw4jE1@thread.tacv2&ctx=channel",
+               "visit_count": 0
+            }, {
+               "date_added": "13348669804436076",
+               "date_last_used": "13358942077572445",
+               "guid": "a8066ad3-5d72-46a9-ba52-8cb9ac91c519",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Word",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.office.com/launch/Word/?auth=2",
+               "visit_count": 0
+            }, {
+               "date_added": "13348669812181573",
+               "date_last_used": "0",
+               "guid": "518d4df7-52ce-48a1-b83b-2724d8fb1c6b",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Excel",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.office.com/launch/Excel/?auth=2",
+               "visit_count": 0
+            }, {
+               "date_added": "13354053498881274",
+               "date_last_used": "0",
+               "guid": "0af2691f-77a9-40ff-8eb3-1b6bb7a5b067",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SISTEMI_COOPERATIVI_2024 - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1TKMwSnLVC9Te7JL8cnt8Wnsglp_W5NXr",
+               "visit_count": 0
+            }, {
+               "date_added": "13354122270839185",
+               "date_last_used": "0",
+               "guid": "45758ee3-9f93-4895-ac45-a06e4a9f4b15",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "pon",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/stefa/Desktop/aritmetica.pdf",
+               "visit_count": 0
+            } ],
+            "date_added": "13348669770913708",
+            "date_last_used": "0",
+            "date_modified": "13354122270839185",
+            "guid": "b16af0e1-81c6-45a2-88d6-5b6616474035",
+            "id": "9",
+            "name": "OFFICE",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13338815865125121",
+               "date_last_used": "13347753116398298",
+               "guid": "14862984-aaa5-447d-8a3a-1cbc74df567e",
+               "id": "18",
+               "name": "Hackaday | Fresh Hacks Every Day",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://hackaday.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13348965700341498",
+               "date_last_used": "0",
+               "guid": "f7dc0ba9-b249-467e-82a1-44a2b8451111",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Using the client - Syncplay",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://syncplay.pl/guide/client/",
+               "visit_count": 0
+            }, {
+               "date_added": "13346725601365742",
+               "date_last_used": "13348417529116247",
+               "guid": "7015e1cb-8713-4f89-8f3b-14d00f08d296",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Suhas Tech - I has tech!",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://suhastech.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13349838095653286",
+               "date_last_used": "0",
+               "guid": "7d1f0128-87ae-4739-8789-fd91ab7be2b3",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Come costruire un biliardo fai da te | Progetti dettagliati - Bricoportale.it",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bricoportale.it/fai-da-te/costruzioni-fai-da-te/tavoli/come-costruire-un-biliardo/#Le_sponde_di_rimbalzo",
+               "visit_count": 0
+            }, {
+               "date_added": "13352246416838590",
+               "date_last_used": "0",
+               "guid": "ce5ea742-1ba7-4e37-a39d-ab7dddc94810",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "PhET: Simulazioni gratuite online di fisica, chimica, biologia e scienze della Terra",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://phet.colorado.edu/it/",
+               "visit_count": 0
+            }, {
+               "date_added": "13354370141808015",
+               "date_last_used": "0",
+               "guid": "b341fe0f-4086-4c0a-86bb-8006b888792a",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mirco Slepko - I miei progetti (DIY)",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mircoslepko.blogspot.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13354589056364110",
+               "date_last_used": "0",
+               "guid": "57e6e91f-24a4-4880-91ca-8d80504cdfa1",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Download past lives Torrents | 1337x",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.1337x.to/search/past+lives/1/",
+               "visit_count": 0
+            }, {
+               "date_added": "13354889355151373",
+               "date_last_used": "0",
+               "guid": "7a492d7e-bc50-4d8e-b593-f87c69d8e394",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "PC Wonderland - Your ultimate source to download free pc software.",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pcwonderland.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13351862924375455",
+            "date_last_used": "0",
+            "date_modified": "13354889355151373",
+            "guid": "d4224ab2-b087-40c4-9685-1c999a7de7e8",
+            "id": "17",
+            "name": "DIY",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13333122907720419",
+               "date_last_used": "13346032688292949",
+               "guid": "bcf6e7c1-5a21-489a-8b87-6419a24d6125",
+               "id": "27",
+               "name": "Vimm's Lair: Preserving the Classics",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vimm.net/",
+               "visit_count": 0
+            }, {
+               "date_added": "13333112775344900",
+               "date_last_used": "13345855610198744",
+               "guid": "da8642e9-bc84-415e-bacf-d0e01f455069",
+               "id": "28",
+               "name": "/r/Roms Megathread",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://r-roms.github.io/",
+               "visit_count": 0
+            }, {
+               "date_added": "13333395912985485",
+               "date_last_used": "13348443642236381",
+               "guid": "4eba80f0-cfc7-4409-8d20-c090312f1d4b",
+               "id": "29",
+               "name": "PS3 Firmwares - Darthsternie's Firmware Archive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://darthsternie.net/ps3-firmwares/",
+               "visit_count": 0
+            }, {
+               "date_added": "13356041232383783",
+               "date_last_used": "0",
+               "guid": "1fab435d-0c05-4c3c-a42a-e154949bda0e",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "3ds",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/",
+               "visit_count": 0
+            }, {
+               "date_added": "13356662775692536",
+               "date_last_used": "0",
+               "guid": "fd0596ec-e23b-45b5-a14f-fb96a8407c14",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Download walter mitty ita Torrents | 1337x",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.1377x.to/search/walter%20mitty%20%20ita/2/",
+               "visit_count": 0
+            }, {
+               "date_added": "13356994663555539",
+               "date_last_used": "0",
+               "guid": "7786c8b6-1357-4185-93fc-40cd56357705",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Problemi di Calcolo Combinatorio",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youmath.it/lezioni/probabilita/calcolo-combinatorio/1218-risolvere-i-problemi-di-calcolo-combinatorio.html",
+               "visit_count": 0
+            }, {
+               "date_added": "13358854621687765",
+               "date_last_used": "0",
+               "guid": "2c31ca77-2f04-4bb6-a377-dfbc283151fb",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Wireless Network Watcher - Show who is connected to your wireless network",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.nirsoft.net/utils/wireless_network_watcher.html",
+               "visit_count": 0
+            }, {
+               "date_added": "13359235367966874",
+               "date_last_used": "0",
+               "guid": "3f981837-e140-49b0-a41d-a683a595395f",
+               "id": "34",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(5) reddit.com: search results - greetd_sock",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.reddit.com/r/swaywm/comments/kjgk8x/greetd_gtkgreeter_is_amazing/",
+               "visit_count": 0
+            }, {
+               "date_added": "13360934179261828",
+               "date_last_used": "0",
+               "guid": "3db37ad7-2931-4503-8480-12f66346e557",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "issue di prova · Issue #1 · famila-sc2324-inf-uniba/cloud-functions",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/famila-sc2324-inf-uniba/cloud-functions/issues/1",
+               "visit_count": 0
+            }, {
+               "date_added": "13362963511103039",
+               "date_last_used": "0",
+               "guid": "a23b31a6-c831-4059-b72c-72386ecd1ffe",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "tele",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/feed/subscriptions",
+               "visit_count": 0
+            }, {
+               "date_added": "13363719651870259",
+               "date_last_used": "0",
+               "guid": "a8d408a3-ec24-478c-bae4-1bda7c933011",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(4) LAPTOP REEEVOLUTION - Hardware moderno nei mini notebook - Parte 1 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zkyS7Ea9NxM&t=151s",
+               "visit_count": 0
+            }, {
+               "date_added": "13363997421248447",
+               "date_last_used": "0",
+               "guid": "cffcd291-b1ac-4af8-a9f0-bf76ef5459e9",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(4) days in my life | reading, mini bookstore haul, chill days 🌱 📚 [silent vlog] - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Cr2_i11dJHU",
+               "visit_count": 0
+            }, {
+               "date_added": "13364601463688137",
+               "date_last_used": "0",
+               "guid": "b6fce2e2-e5fb-4689-a4ac-1a3c3354c871",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Summer 2024 Anime · AniList",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://anilist.co/search/anime/this-season",
+               "visit_count": 0
+            }, {
+               "date_added": "13367462975548091",
+               "date_last_used": "0",
+               "guid": "ec6dc2e3-1654-47a7-920b-25abfd19524a",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Download immaculate Torrents | 1337x",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.1337x.to/search/immaculate/1/",
+               "visit_count": 0
+            }, {
+               "date_added": "13368831998332577",
+               "date_last_used": "0",
+               "guid": "60bb1bd1-5dbd-42aa-a914-2a1ff4f8d208",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "HWAccelIntro – FFmpeg",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://trac.ffmpeg.org/wiki/HWAccelIntro",
+               "visit_count": 0
+            }, {
+               "date_added": "13369602785063987",
+               "date_last_used": "0",
+               "guid": "2442c6dc-d0b4-43be-a901-23db328750f9",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Meet - cfs-nvox-gsx",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://meet.google.com/cfs-nvox-gsx",
+               "visit_count": 1
+            }, {
+               "date_added": "13370292705650796",
+               "date_last_used": "0",
+               "guid": "dee7b6c2-da8e-461c-a722-5b5c0da9aadf",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Meet - ikn-boiw-wnq",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://meet.google.com/ikn-boiw-wnq?authuser=0",
+               "visit_count": 1
+            }, {
+               "date_added": "13371238323034863",
+               "date_last_used": "0",
+               "guid": "42877aa1-fa81-48c7-b829-a30f02dffcc4",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Plus-Sized Elf chapter 1 - English Scans",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://plussizedelf.online/manga/plus-sized-elf-chapter-1/",
+               "visit_count": 1
+            } ],
+            "date_added": "13351862956871516",
+            "date_last_used": "0",
+            "date_modified": "13371238323034863",
+            "guid": "513d8031-2ca0-4142-b10d-0808323bd4ff",
+            "id": "26",
+            "name": "ROMS",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13351862997615824",
+               "date_last_used": "0",
+               "guid": "5c1fa464-1c52-4dc7-b9c2-223e3c04bf0d",
+               "id": "46",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Elearning UniBA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://elearning.uniba.it/",
+               "visit_count": 0
+            }, {
+               "date_added": "13334618246308493",
+               "date_last_used": "13346769093726605",
+               "guid": "9dcfb5df-c0ae-45f2-97ce-bff2c5286075",
+               "id": "47",
+               "name": "CSS Colors",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.w3schools.com/csS/css_colors.asp",
+               "visit_count": 0
+            }, {
+               "date_added": "13354646996090000",
+               "date_last_used": "0",
+               "guid": "af24b004-cdc2-44f9-ac19-2175fdb1fe48",
+               "id": "48",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SC_FOLD",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1dr9QX0hNpNJu-INJZef6VRr1G5ZBs7F1",
+               "visit_count": 0
+            } ],
+            "date_added": "13351862976487578",
+            "date_last_used": "0",
+            "date_modified": "13354646996090000",
+            "guid": "ddc656ec-a6bc-438d-a3e6-a1abc554ee87",
+            "id": "45",
+            "name": "UNI",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13372032257434592",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra Preferiti",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13372032257434599",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Altri preferiti",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13200004849882052",
+            "date_last_used": "0",
+            "guid": "46723e7d-25ad-48ac-b412-344a73af26ee",
+            "id": "6",
+            "name": "AnimeWorld: Download e Streaming di Anime in Sub ITA!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.animeworld.it/",
+            "visit_count": 0
+         }, {
+            "date_added": "13200004902846870",
+            "date_last_used": "0",
+            "guid": "836d63b9-48bd-46c9-9df2-9a9f4d8796d0",
+            "id": "7",
+            "name": "Gogoanime | Watch anime online, English anime online HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www2.gogoanime.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13285710896282929",
+            "date_last_used": "0",
+            "guid": "509234cd-3e0c-4fe6-8b20-955dd3fecc00",
+            "id": "8",
+            "name": "PC Savegames - Download Savegames and Saved Games for PC games",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.pcsavegames.com/en/?page=list&alpha=a",
+            "visit_count": 0
+         } ],
+         "date_added": "13372032257434602",
+         "date_last_used": "0",
+         "date_modified": "13285710896282929",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Preferiti dispositivo mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCGH1XBmSAQAAEgAqGDlIVjhpWEdEd25MeThpVTFlMGFGemc9PUgDoAYKEqwBCDASpwEKHElURURESWJ3dUQ3MjBUUlpFQzZZa3NaTjNmOD0SJGFmMjRiMDA0LWNkYzItNDRmOS1hYzE5LTIxNzVmZGIxZmU0OBgAIAAoADDXjZ3y4jE4h9Kc8uIxQIfSnPLiMUocdzBRa2tpN3JaSU9RYjQvTzMxc2V0T2tLMS9JPVoeIhxuUGd2S2Z6YUNEMEtsYWduOFJMaU4yVmYzbjQ9ZfqR3tvCPgJgBRKsAQguEqcBChw3dWV6TXlWMkNodlk1NS9pTlczYzlVN3pWbXc9EiQ1YzFmYTQ2NC0xYzUyLTRkYzctYjljMi0yMjNlM2MwNGJmMGQYACAAKAAwkIjbwtgxOKL02sLYMUCi9NrC2DFKHEhFd2I4QWZmb01kYzNsMmNtR1JnM2V0RTQ2az1aHiIcOTJuclp1b1cvQnFOeE02eEpDcE4rTm5VSDE0PWWyphGewj4CYAUSrgEIKRKpAQocNUNDS2hCVHZadW1PZ2k5NWtqL3ljSGVGU1ZZPRIkNjBiYjFiZDEtNWRiZC00MmFhLWE5MTQtMmExZmY0ZjhkMjA4GAAgACgAMKq6lN6XMjiovJTelzJAqLyU3pcyShxoTUFGUUU1L3NWYTAzRGp2bjd6SXFPc1Z3VTg9WiAiHv/7azRGOURRWTNYL0YwZjdJbDU3ZnA0YzVScU9NPWV+2Klpwj4CYAUSrgEIKBKpAQocTlE2V1MzUm5YK2dCSUlWY2ozNU1rUXllaXNRPRIkZWM2ZGMyZTMtMTY1NC00N2E3LTkyMGItMjVhYmZkMTk1MjRhGAAgACgAMJCBrtGSMjjYhK7RkjJA2ISu0ZIyShxRWjNKb25lQjVsbHhRQXhMenpJYjNiaVJPUHc9WiAiHv/2T3hFSWNndnJ5eDVOMk1HbXBSamdxVkxCdFFBPWVzQIcjwj4CYAUSrgEIJxKpAQocTFc3OThpVDZHU0VxYVFXUTBUanZmSEM2SUE0PRIkYjZmY2UyZTItZTVmYi00Njg5LWE0YWMtMWEzYzMzNTRjODcxGAAgACgAML6I8fyHMjj+ifH8hzJA/onx/IcyShxZZ1d6U3N5VVR2azBTTllRczlkdGNUbkNuckU9WiAiHv/tODFVK05LeHBRZ3BOTGZlQk1CYm9sN0FoZGJzPWVT6mivwj4CYAUSrgEIJRKpAQocMlpxUkdOZlRQTnhabFRPemJNZnV5SmJOTXg0PRIkYThkNDA4YTMtZWMyNC00NzhjLWJhZTQtMWJkYTdjOTMzMDExGAAgACgAMP7Js9iEMjiUzLPYhDJAlMyz2IQyShxDZU50Zk5jUXlXZmRVcE9zMWN5OEo1NGhLQ0k9WiAiHv+0TU05aHFwbEx4TWVhVXk4WXNyb291NStobTljPWU4+Tkzwj4CYAUSrQEIHxKoAQocdnhONVAxdk0xVmo1dUFUcGFDeU41SWR4SHBjPRIkZmQwNTk2ZWMtZTIzYi00NWI1LWExNGYtZmI5NmE4NDA3YzE0GAAgACgAMPqEtrPqMTj9hraz6jFA/Ya2s+oxShxML0FGbnNnRnNnL2loU3ROU1BDb2owM0ZhYmc9Wh8iHeYzRURvVzFtTXJGaHpEeC8reHlSbW5HNi9wNTQ9ZXNAhyPCPgJgBRKtAQgvEqgBChxncnVzUEtrd1UxNlVsREJKZDNNclBQRTJ2NEE9EiQ5ZGNmYjVkZi1jMGFlLTQ1ZjItOTdjZS1iZmYyYzUyODYwNzUYACAAKAAw+cHbwtgxOPHg4qOYMUDx4OKjmDFKHGQrcnpiRm5qdlhzdWpRVUlMVHYveW9GWU5yRT1aHyIdQGxhWlFnMnQ0bDdqQzNvQ1Arbm9wU3ZpdjkwVT1loytZI8I+AmAFEq0BCB0SqAEKHERLbGRtZDNLWlUvV2xxblMvbzFaQXRBSU9SQT0SJDRlYmE4MGYwLWNmYzctNDQwOS04ZDIwLWMwOTAzMTJmMWQ0YhgAIAAoADDtytnC2DE4tr713JMxQLa+9dyTMUocZGFqOFlDVWxIRWN3ZThVSnFxUDZNVnlmeEdJPVofIh2aMWUyaDNJVWZKT0MvSCtDRmRod3RacTBYYWIwPWUAAAAAwj4CYAUSrAEIGxKnAQocVytiNFNoZTBwU29qL3puL2pYRnhHcHhXeEZzPRIkYmNmNmU3YzEtNWEyMS00ODlhLThiODctNjQxOWEyNGQ2MTI1GAAgACgAMOG12cLYMTjwwt7akjFA8MLe2pIxShw4TWU0cDNlZWpHUWhmTm50cjNVdlkzOEUyUjg9Wh4iHDRXVTFObk82Qm9JS2htdDlwdEkxdVVNWTFtST1lACvZLcI+AmAFEqwBCBwSpwEKHDNkcjRFTVVZYWRJU0dSd3MydllZVVlPblhCRT0SJGRhODY0MmU5LWJjODQtNDE1ZS1iYWNmLWQwZTAxZjQ1NTA2ORgAIAAoADDuytnC2DE454v01ZIxQOeL9NWSMUocL0crYVZDQmtmTzFGNDdFc0hlcGJRcVZzZkdjPVoeIhx4QllBVEFlNkpORUI0OHlTd0ZIdGZnTjlneDg9ZbscBBnCPgJgBRKsAQgVEqcBChxlakRxOTlndWdUV3RmcXVxeVVSR0ZaS3ZIcEE9EiQ3ZDFmMDEyOC04N2FlLTQ3MzktODc4OS1mZDkxYWI3YmUyYjMYACAAKAAw9JbXwtgxOJDTjODSMUCQ04zg0jFKHHh0UDFPQ0hPR29jV0ZmcTlqbHdQTy9hSURNYz1aHiIccEtyOTN4Q3pNbmU2ZmRoTlFKSFZkVDR0NnlzPWX1C0SJwj4CYAUSrQEIIxKoAQocUnllMUwrVW5PeUFOQUxnWUhjREk1ZmxFTnFnPRIkM2RiMzdhZDctMjkzMS00NTAzLTg0ODAtMTJmNjYzNDZlNTU3GAAgACgAMODq88qhMjjr2Zeo+jFA69mXqPoxShxnSllIRHRxU0o3ckpjYVBuYzFXdHZ2VXY0cmM9Wh8iHf4yUHFkRWsyMWJhTWFmRWxTcHg2cGgzQU15NXc9ZcjzP7vCPgJgBRKsAQgUEqcBChxPVVlLNWhsZDEzV3RhMURLdmRldS9vSlN6cXc9EiQ3MDE1ZTFjYi04NzEzLTRmODktOGYzYi0xNGQwMGYwOGQyOTYYACAAKAAw/L7XwtgxOO7CmuHLMUDuwprhyzFKHFlnVkZsNGRCOUJ4RDRwZktqNk5yc1psaXlHST1aHiIcSWxKMTVVVVo0SnlCVkFDT0F3eFdXMUpOMVpRPWVZNTOEwj4CYAUSrQEIIBKoAQocYWRZYmNMdGwwRC9kWTQxS1p6ejBPaGJoaFdjPRIkNzc4NmM4YjYtMTM1Ny00MTg1LTkzZmMtNDBjZDU2MzU3NzA1GAAgACgAMIns1tHrMTij7tbR6zFAo+7W0esxShxLQmpCbkxpM2psMHlGdHR4Y0haQWFrWUhieEk9Wh8iHfNHMDQyVWIxelpZRm5YZjJJbUU1VEpaNlJoQ1k9ZVLMEi7CPgJgBRKtAQgMEqgBChx2NjBWdEdYQTlOUDZUa2dmRHJKQ2dRelAwZzg9EiRiNGZjZjNkZS1mMzNhLTRjODEtOGIyYy00ZDBmZWUxYmY3M2QYACAAKAAwnuTThfwxOLmYidDMMUC5mInQzDFKHFlKdC9QenUxdXdoVThPelZnTEtXcU9kZ1NKcz1aHyId0E5HakExdTJHbldQSjR2WFlHTTZzUGdjT3VSOD1lwKL9XsI+AmAFEqwBCBMSpwEKHERmdEhJaUpPMlNSd25qOU0yckU4aVFQQ3dMND0SJGY3ZGMwYmE5LWIyNDktNDY3ZS04MmExLTQ0YTJiODQ1MTExMRgAIAAoADDG0d3C2DE4zuGV3c0xQM7hld3NMUocZlU4Zy9yekJFZ0ZEODR0M1EyalRuNm5hUkhNPVoeIhwySWxuc2t6UWlaMDBkeVVOL2pLSDgwc05WRVk9ZYIW7ZTCPgJgBRKuAQgrEqkBChxGN0ZMbWlNMWdHRXBWTGpUT3p1L2dKU2hZTlU9EiRkZWU3YjZjMi1kYThlLTQ2MWMtYTcyMi01YjVjMGRhOWFhZGYYACAAKAAw1+HYlp0yOObj2JadMkDm49iWnTJKHG5oa3hSWkNOblVvbGpWbE4rNGowUW45UHg3ST1aICIe//51SFhIdmpxQTUxa00vK2s1OXZsRWVLVm4wZjA9ZfQi9RvCPgJgBRKtAQgSEqgBChxYcDdxNnJ1akswS2VTN3h1dEhEaWhGT2NuNWM9EiQxNDg2Mjk4NC1hYWE1LTQ0N2QtOGEzYS0xY2JjNzRkZjU2N2UYACAAKAAwl/LXwtgxOKOerfWnMUCjnq31pzFKHHhINmxmVDg4eXViMUR2UGNKSjZYVytZRkJ6ND1aHyIdJHB4TmNHMlYxR29WQno0d1ozSkJDa2U5VUdtZz1lLuj+jcI+AmAFEq0BCA8SqAEKHGFGNWJsRVJPYmFYQ0ZWZzFRUGtDWnhJVUtPST0SJDBhZjI2OTFmLTc3YTktNDBmZi04ZWIzLTFiNmJiN2E1YjA2NxgAIAAoADDpxZzX4DE4wbGc1+AxQMGxnNfgMUocZ3ZsSFFtTC9QbFVJUXY0Z29NZEluenlvdU1NPVofIh36cnRSRTBObkFYeWQ5cFhwZTZmck1hWFl3aC9jPWX6kd7bwj4CYAUSrwEICRKqAQocMWFBdFY2TWhOT0pUWFd4MnZqWTZwdExGMUhNPRIkYjE2YWYwZTEtODFjNi00NWEyLTg4ZDYtNWI2NjE2NDc0MDM1GAAgACgAMOXg3MLYMTie4IfQzDFAnuCH0MwxShxUTjhnajR5ZlYydDJ0ejdNekZJRWM2dDVEeUU9WiEiH///rDNoS2J1MUhuY2E2VDZjYVlRUFljNldmdU5kZz1lAAAAAMI+AmAAEq0BCBASqAEKHFNjUlhTZXRMTjlISVpaSkI2K291eWVtZUk0MD0SJDQ1NzU4ZWUzLTlmOTMtNDg5NS1hYzQ1LWEwNmU0YTlmNGIxNRgAIAAoADCx7YH44DE46O+B+OAxQOjvgfjgMUocdytkSFZBM29YcXQ2OUdVUUVYY3FMZUg0cjlRPVofIh39ZEpBcmJZZUVJTVMzMFFaT2IrM3RnMG5TY2JBPWV3cGyjwj4CYAUSrwEIERKqAQocckZrZndVVkplTzBIZE1MQ21XdVdtUXJ3a25jPRIkZDQyMjRhYjItYjA4Ny00MGM0LTk2ODUtMWM5OTlhN2RlN2U4GAAgACgAMPG11sLYMTiQuNbC2DFAkLjWwtgxShxCY29kRzBIUlA5aU5yKy9hbW81eXkxZmJXVTQ9WiEiH///9TRGS1dNWGpMYWtLdXIvUnhiNjRFWU1YUE1aTT1lAAAAAMI+AmAAEq4BCCwSqQEKHC9iUnJ2T0VyL05uVUpWTSsvQ0Ridm9qcnc4UT0SJDQyODc3YWExLWZhODEtNDhjNy1iODI5LWEzMGYwMmRmZmNjNBgAIAAoADCe9NDZoDI40vfQ2aAyQNL30NmgMkocTU9sT3RMMzlIc1Jhd3ZpYkNqN3BldFZsT1JzPVogIh7//2pReGNFVm1PZHlpaWt3bXRjMmJyV1RoRS9ITT1li0N+28I+AmAFEq4BCCoSqQEKHFpFNmRKcFhIVHQzNFE1cEg1NVRtWENLRlVOdz0SJDI0NDJjNmRjLWQwYjQtNDNiZS1hOTAxLTIzZGIzMjg3NTBmORgAIAAoADCLyNnNmjI4/cnZzZoyQP3J2c2aMkocanFCNVRGMGtPejRVVXFFT082YU5vaEJDUTZVPVogIh7//VBlZSt4MFpTVWU3a3EvTmxyMW4vSXdWeVVTZz1l9CL1G8I+AmAFEq0BCA4SqAEKHE9OQllRTWdYTDJtMFhicUVGUDhOK3h3czV0bz0SJDUxOGQ0ZGY3LTUyY2UtNDhhMS1iODNiLTI3MjRkOGZiMWM2YhgAIAAoADCAzIrQzDE48qCK0MwxQPKgitDMMUocU2x2TVZ5Uy9zNm5NaFpvSkdPQktOT3BxOE0wPVofIh30ZGhwOW9qRHBaTk42RjZ1QWxPRktaeFpKaGZrPWXGl/fqwj4CYAUSrQEIGBKoAQocdmI5cTgvM054YmlWaDYzQmVUaEF0cEczZmRFPRIkNTdlNmU5MWYtMjRhNC00ODgwLTkxY2EtOGQ4MDUwNGNkZmExGAAgACgAMJ2dzNbiMTjkn8zW4jFA5J/M1uIxShxkU0gxS1QwbUZHSnNQdkxwVG1PdzRNQWlBdVE9Wh8iHe5Bd0xXenM3Uk9aMnNLZVE5WGxDZFlzY3pHckk9ZXNAhyPCPgJgBRKtAQgiEqgBChxwT3ltd3dtREIzTkZ0NXBCNUF6ZE5mSjl3dnc9EiQzZjk4MTgzNy1lMTQwLTQ5YjAtYTQxZC1hNjgzYTU5NTM5NWYYACAAKAAwqMuQ/vMxOIXPkP7zMUCFz5D+8zFKHFhTem1vWmV5cHh0aWNoSStjUFJ0YUhCNEVmND1aHyId/GQ0alBHOE95MFN4QWVTd1htOTBuVVRWbDZFWT1lYc1cM8I+AmAFEqwBCAYSpwEKHExNbEl0bFFaUHNpMWJqUmtkODFOZnNvQUpwQT0SJDhiZDIxZGEwLTJhOTQtNDIzMC1hNmNjLThmMmFkMjk4OWU5MhgAIAAoADCL1vmL9zE4q6X//OsvQKul//zrL0ocdmhVZmQ2bVMwVzFmYi9IVWN0b3c2SjErUkNVPVoeIhxTYXgzQWpaZXNEb09BM3NFdUYxenU3cW5WWmc9ZabdBavCPgJgBRKtAQgXEqgBChxKdjZRajkveHBvUjVwQVZaZjZ1M2dMaUNFU1U9EiRiMzQxZmUwZi00MDg2LTRjMGEtODZiYi04MDA2Yjg4ODc5MmEYACAAKAAwl/qa7uExOPXlmu7hMUD15Zru4TFKHEY2ZTNrb3dlUW0wQ1I3cXlvczBCM3JPbVNlOD1aHyId3Dk5T0xJVzVLSzdpT1owNisrczAzLzJ5TDkrND1l/NqR+8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDA4NGMyZDE4LTE1OTktNWM4OC1hOTVkLWU5OGY2NDdhYmUzOBgAIAAoADDWjf2/sDA4rqT//OsvQK6k//zrL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgLEqgBChw4aVVQZ1h3YysxWFJWS0RxYlZaL0tvTEsxcms9EiQ4ODE1NWVjMi0zMWUwLTQwMDEtOTQ1OC0yZTk1NzI4OGRmMzAYACAAKAAw0cCIrfkxOMTpiNDMMUDE6YjQzDFKHDRkc3NkOVFiUEpJNmlhRlR6UEVVUkxxdkZiZz1aHyIdoTZyVitGclI4S0pWZlRaUlVRc1VjWVZmZ1lHND1l4b23y8I+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDliMmI1MTE3LTUxMzgtNTA0Zi1hZThhLTY1ZDE0NjU3MjY3MhgAIAAoADDWjf2/sDA4vaT//OsvQL2k//zrL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKuAQgmEqkBChxTMmM1KytVU05QRVpXaXZPS3Z1NWd1dTdMSWM9EiRjZmZjZDI5MS1iMWFjLTRhZjgtYTlmMC1iZjc2ZWY1NDU5ZTkYACAAKAAw/aTt3IUyOMCn7dyFMkDAp+3chTJKHG15UVZLb29iSTNLZk94ZmRBb3pCMEI4OUk3Zz1aICIe/9p2ejZXRldWOHRMekxkSHJ2Qjg4Njg4U3BKRHM9ZTj5OTPCPgJgBRKtAQgkEqgBChxySXZnWnNZNTR0eFdyV1l3ejh3dDF0QmlVUlU9EiRhMjNiMzFhNi1jODMxLTQwNTktYjcyYy03MjM4NmVjZDFmZmUYACAAKAAw57Hs74EyOPGz7O+BMkDxs+zvgTJKHGtLVG4zTko3TDZrbFB0N29SU1N1OGdhQjBYbz1aHyId/2hLY0E4ZmZlY3R6citWVWtEeEs5OTBoL21iaz1lOPk5M8I+AmAFEq0BCCESqAEKHENYOGVBV0NyVlZidUp0VllaQXhuRGMxQWF4cz0SJDJjMzFjYTc3LTJmMDQtNGJiNi1hMzc3LWRmYmMyODMxNTFmYhgAIAAoADCsxsnI8jE47MjJyPIxQOzIycjyMUocOU1uOXJqTXFnV1FSbzNnZkVwZnIySUJNcDVRPVofIh35QXhxNUV5MFpqbml6b3N1SU5NVEZjV081cVJvPWUdFpWswj4CYAUSrAEIBxKnAQocYzdTSWxqLzJLQmhPZlZNcTF4Qk5PMk4relJ3PRIkZGI3M2JiOGYtZjk1Mi00NTUwLWJmYmItYmU5OTk4NzY1MzJjGAAgACgAMMvSyZibLjiLpf/86y9Ai6X//OsvShwvK1hnMmZpSWFuYTlsMk43NXN1MjFOMzVyMm89Wh4iHGpHQVAxQ3ZBV2k3WnJGb2piMWl2R0U2VU5vbz1lAAAAAMI+AmAFEqwBCAoSpwEKHHRPMlU3ZkZyNTFFZlZQSDU0VDJXZjJCaVV2dz0SJGViMzk5MmFkLWVmMmYtNDkxNC05MDVjLTcyZjQ4NmFiMTA3ZhgAIAAoADC0hvK9+TE4kaGI0MwxQJGhiNDMMUocRC9vdW5iNXR5TjFSMGFka0Y2eEY1WDRvWEhrPVoeIhxDVDBBQ2UxZk9TcTRBUDRxU3grYzl0N1E0MGc9ZRp5gvDCPgJgBRKtAQgWEqgBChxEd1ErNkFMVENKOU5GUkFSYWhQbmpnYmhNdzA9EiRjZTVlYTc0Mi0xYmE3LTRlMzctYTM5ZC1hYjdkZGRjOTQ4MTAYACAAKAAw/e7E+dkxOMP0xPnZMUDD9MT52TFKHHhRbmxoRkJ3WExUSVRXNFdQaVV6QkpzZ0lkQT1aHyIduG95VDRwWHdGd1p4TXJJWnRsRXdyRzJJVDQxRT1l0JVAXMI+AmAFEq0BCA0SqAEKHHd5RUl2T0s2cWVrZ05GOFdkSzA4aUdMcDM3Zz0SJGE4MDY2YWQzLTVkNzItNDZhOS1iYTUyLThjYjlhYzkxYzUxORgAIAAoADDQzKPy8jE4weWJ0MwxQMHlidDMMUocSW00RjRxcDljOGNzS1ZVc2cvcGFxRHdiOHdnPVofIh3oS090Y3hHT05hUldCT3UxY2lsMk9xeSszOFJrPWUaeYLwwj4CYAUSrQEICBKoAQocd1RNVWJ3UHV6RlJta21zc1ltMy9ERFdoV3pnPRIkNTA5MjM0Y2QtM2UwYy00ZmU2LThiMjAtOTU1ZGQzZmVjYzAwGAAgACgAMPf+9oriLzjynIL96y9A8pyC/esvShxHMlJ2Y3QzMVgxU2h4ZGEwcUJNWWticWhHWUE9Wh8iHbVpbkVpZ0Ixbk95S3hEbkQ2ODJQeGtOSEp3ZDg9ZbKD2RDCPgJgBRKvAQgtEqoBChxDN0dUMnR4NUJpNmdSRGhoS05RdTlXTjk1N289EiRkZGM2NTZlYy1hNmJjLTQzOGQtYTNlNi1hMWFiYzU1NGVlODcYACAAKAAw7MrZwtgxOPbO2cLYMUD2ztnC2DFKHDgwNTIrRmpVL1NTOUJMdUtIb2JzQmVsOEZBTT1aISIf///+cmszK0hNeWtyL1FTVlUxVE9uaTgzRElma3pBPWUAAAAAwj4CYAASrQEIHhKoAQocbVlZZVF0Y014NHoxRHlKME5KYkdUaVJxOWpvPRIkMWZhYjQzNWQtMGMwNS00YzNjLWE0MmEtZTE1NDk0OWJkYTBlGAAgACgAMO6thovoMTjqh4aL6DFA6oeGi+gxShxUVWpnM2J4dEpCODZ0RWhiVXd1ZWU2RXpwN3M9Wh8iHc1EcVd5Y0FhUkVvb1pOUWhNbVFSU0IxK1c3ZE09ZTSavXzCPgJgBRKtAQgZEqgBChxVZmlYOWd2TEIvQ0huMXE5elJML0tFWkFJL1k9EiQ3YTQ5MmQ3ZS1iYzUwLTRkOGUtYjU5My1mODdjNjlkOGUzOTQYACAAKAAwmpvl5eMxONKE5eXjMUDShOXl4zFKHEVQVGhhSkNHcUtGSUJacHc3WVJXVnZJNDU4VT1aHyId91dHcUcydHZBWmtZb0pQTXhjMXRVQmx6YXR2Zz1lWZ4A/8I+AmAFEq8BCBoSqgEKHEhQN2doWjhQMGs4alpFQmZ5c2hsZWwxRUI0TT0SJDUxM2Q4MDMxLTJjYTAtNDE0Mi1iMTBkLTA4MDgzMjNiZDRmZhgAIAAoADDas9jC2DE427bYwtgxQNu22MLYMUocdk81Z0lQNGE5U3hRMVlLTHJZRUVZU2hqL1ZFPVohIh////pWSW02eXQ1WDgySWwxQjhCUXhiUGhQam9ZSGc9ZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQwYjdkYzA0Yi03N2IyLTVjNWYtYjUwOC0zNDM2NDg5NjQ4OGQYACAAKAAw1o39v7AwOOyk//zrL0DspP/86y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

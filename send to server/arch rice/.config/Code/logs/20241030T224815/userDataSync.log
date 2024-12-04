@@ -1,0 +1,137 @@
+2024-10-30 22:48:19.128 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-10-30 22:48:19.128 [info] Auto Sync is enabled.
+2024-10-30 22:48:19.128 [info] Auto Sync: Suspended until auth token is available.
+2024-10-30 22:48:20.554 [info] Auto Sync: Triggered by Interval
+2024-10-30 22:48:20.554 [info] Sync started.
+2024-10-30 22:48:21.111 [info] Settings: Updated local settings
+2024-10-30 22:48:21.114 [info] Settings: Updated last synchronized settings
+2024-10-30 22:48:21.131 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:48:21.157 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:48:21.164 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:48:21.319 [info] GlobalState: Updated global state ["workbench.view.sync.state.hidden","colorThemeData","workbench.activity.pinnedViewlets2","cpp.1.sessionCount","java.2.sessionCount","javascript.1.sessionCount","typescript.1.sessionCount","csharp.1.sessionCount","commandPalette.mru.cache","commandPalette.mru.counter","workbench.explorer.views.state.hidden"]
+2024-10-30 22:48:21.319 [info] GlobalState: Updated local ui state
+2024-10-30 22:48:21.329 [info] GlobalState: Updated last synchronized ui state
+2024-10-30 22:48:23.795 [info] Extensions: Uninstalled local extension. ms-vscode.hexeditor
+2024-10-30 22:50:59.645 [info] Extensions: Installed extension. ms-vscode.cpptools-themes 2.0.0
+2024-10-30 22:50:59.645 [info] Extensions: Installed extension. ms-vscode.live-server 0.4.15
+2024-10-30 22:50:59.645 [info] Extensions: Installed extension. vscjava.vscode-java-test 0.42.0
+2024-10-30 22:50:59.645 [info] Extensions: Installed extension. tomphilbin.gruvbox-themes 1.0.0
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. ms-vscode.cpptools-extension-pack 1.3.0
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. vscjava.vscode-maven 0.44.0
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. ms-toolsai.jupyter-renderers 1.0.19
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. ecmel.vscode-html-css 2.0.10
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. ms-vscode.cmake-tools 1.19.52
+2024-10-30 22:50:59.646 [info] Extensions: Installed extension. ms-toolsai.jupyter 2024.9.1
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. jeff-hykin.better-cpp-syntax 1.27.1
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. nuuf.theme-hackershaze 2.0.1
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. danielpinto8zz6.c-cpp-compile-run 1.0.60
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. ms-vscode.vscode-serial-monitor 0.13.1
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. shd101wyy.markdown-preview-enhanced 0.8.14
+2024-10-30 22:50:59.647 [info] Extensions: Installed extension. fisheva.eva-theme 2.7.2
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. ms-toolsai.jupyter-keymap 1.1.2
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. avetis.tokyo-night 1.0.2
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. ms-toolsai.vscode-jupyter-slideshow 0.1.6
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. ms-toolsai.vscode-jupyter-cell-tags 0.1.9
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. cocopon.iceberg-theme 2.0.4
+2024-10-30 22:50:59.648 [info] Extensions: Installed extension. devsense.profiler-php-vscode 1.52.16273
+2024-10-30 22:50:59.649 [info] Extensions: Installed extension. arthurwhite.white 1.3.6
+2024-10-30 22:50:59.653 [info] Extensions: Installed extension. gerane.theme-tronlight 0.0.5
+2024-10-30 22:50:59.653 [info] Extensions: Installed extension. formulahendry.vscode-mysql 0.5.0
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. devsense.composer-php-vscode 1.52.16273
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. endormi.2077-theme 1.5.3
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. redhat.java 1.35.1
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. enkia.tokyo-night 1.0.9
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. robbowen.synthwave-vscode 0.1.16
+2024-10-30 22:50:59.654 [info] Extensions: Installed extension. vadimcn.vscode-lldb 1.11.0
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. yzane.markdown-pdf 1.5.0
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. yzhang.markdown-all-in-one 3.6.2
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. streetsidesoftware.code-spell-checker-italian 1.1.1
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. xdebug.php-pack 1.0.3
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. xdebug.php-debug 1.35.0
+2024-10-30 22:50:59.655 [info] Extensions: Installed extension. tomoki1207.pdf 1.2.2
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. streetsidesoftware.code-spell-checker 3.0.1
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. cschlosser.doxdocgen 1.4.0
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. visualstudioexptteam.intellicode-api-usage-examples 0.2.9
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. vscjava.vscode-java-dependency 0.24.0
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. adamvoss.vscode-languagetool-it 3.8.0
+2024-10-30 22:50:59.656 [info] Extensions: Installed extension. zobo.php-intellisense 1.3.3
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. ritwickdey.liveserver 5.7.9
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.58.0
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. vscjava.vscode-java-pack 0.29.0
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. stevensona.shader-toy 0.11.2
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. twxs.cmake 0.0.17
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. svelte.svelte-vscode 109.1.0
+2024-10-30 22:50:59.657 [info] Extensions: Installed extension. dbaeumer.vscode-eslint 3.0.10
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. ms-ceintl.vscode-language-pack-it 1.94.2024101609
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. github.copilot-chat 0.21.2
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. rafaelmartinez.svelte-preview 2.7.1
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. devsense.phptools-vscode 1.52.16273
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. dabolus.uncanny-cognitive-complexity 1.2.0
+2024-10-30 22:50:59.658 [info] Extensions: Installed extension. ms-python.vscode-pylance 2024.10.1
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. github.copilot 1.243.0
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. adamvoss.vscode-languagetool 3.8.0
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. ms-python.debugpy 2024.12.0
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. ms-python.python 2024.16.1
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. vscjava.vscode-gradle 3.16.4
+2024-10-30 22:50:59.659 [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.3.2
+2024-10-30 22:50:59.660 [info] Extensions: Installed extension. devsense.intelli-php-vscode 0.12.15062
+2024-10-30 22:50:59.660 [info] Extensions: Installed extension. ms-vscode.cpptools 1.23.0
+2024-10-30 22:50:59.677 [info] Extensions: Updated last synchronized extensions. Skipped: ["vsciot-vscode.vscode-arduino"].
+2024-10-30 22:50:59.703 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:50:59.730 [info] Sync done. Took 159180ms
+2024-10-30 22:50:59.733 [info] Auto Sync: Triggered by Activity
+2024-10-30 22:50:59.733 [info] Sync started.
+2024-10-30 22:51:00.376 [info] Settings: Updated remote settings
+2024-10-30 22:51:00.387 [info] Settings: Updated last synchronized settings
+2024-10-30 22:51:00.402 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:51:00.428 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:51:00.444 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:51:00.886 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2024-10-30 22:51:00.906 [info] GlobalState: Updated last synchronized ui state
+2024-10-30 22:51:01.079 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-30 22:51:01.082 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:51:01.084 [info] Sync done. Took 1353ms
+2024-10-30 22:51:01.085 [info] Auto Sync: Triggered by Activity
+2024-10-30 22:51:01.085 [info] Sync started.
+2024-10-30 22:51:01.163 [info] Settings: No changes found during synchronizing settings.
+2024-10-30 22:51:01.192 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:51:01.216 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:51:01.230 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:51:01.233 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-30 22:51:01.375 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-30 22:51:01.377 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:51:01.380 [info] Sync done. Took 295ms
+2024-10-30 22:51:27.116 [info] Auto Sync: Triggered by Activity
+2024-10-30 22:51:27.116 [info] Sync started.
+2024-10-30 22:51:27.562 [info] Settings: Updated remote settings
+2024-10-30 22:51:27.566 [info] Settings: Updated last synchronized settings
+2024-10-30 22:51:27.570 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:51:27.575 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:51:27.579 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:51:28.000 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2024-10-30 22:51:28.004 [info] GlobalState: Updated last synchronized ui state
+2024-10-30 22:51:28.128 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-30 22:51:28.132 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:51:28.133 [info] Sync done. Took 1017ms
+2024-10-30 22:51:38.507 [info] Auto Sync: Triggered by Activity
+2024-10-30 22:51:38.508 [info] Sync started.
+2024-10-30 22:51:38.636 [info] Settings: No changes found during synchronizing settings.
+2024-10-30 22:51:38.641 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:51:38.644 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:51:38.646 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:51:39.313 [info] GlobalState: Updated remote ui state. Updated: views.customizations.
+2024-10-30 22:51:39.318 [info] GlobalState: Updated last synchronized ui state
+2024-10-30 22:51:39.474 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-30 22:51:39.476 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:51:39.477 [info] Sync done. Took 971ms
+2024-10-30 22:51:41.050 [info] Auto Sync: Triggered by Activity
+2024-10-30 22:51:41.050 [info] Sync started.
+2024-10-30 22:51:41.193 [info] Settings: No changes found during synchronizing settings.
+2024-10-30 22:51:41.214 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-30 22:51:41.222 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-30 22:51:41.229 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-30 22:51:41.760 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2024-10-30 22:51:41.766 [info] GlobalState: Updated last synchronized ui state
+2024-10-30 22:51:41.959 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-30 22:51:41.961 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-30 22:51:41.962 [info] Sync done. Took 914ms

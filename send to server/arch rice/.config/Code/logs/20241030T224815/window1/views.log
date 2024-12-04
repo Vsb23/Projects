@@ -1,0 +1,22 @@
+2024-10-30 22:48:18.112 [info] Added views:outline in workbench.view.explorer
+2024-10-30 22:48:18.112 [info] Added views:workbench.view.search in workbench.view.search
+2024-10-30 22:48:18.112 [info] Added views:workbench.scm in workbench.view.scm
+2024-10-30 22:48:18.112 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-10-30 22:48:18.112 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-10-30 22:48:18.112 [info] Added views:terminal in workbench.views.service.panel.75d91ffb-dd38-455e-aa6e-049f1e5516cb
+2024-10-30 22:48:18.112 [info] Added views:timeline in workbench.view.explorer
+2024-10-30 22:48:18.112 [info] Added views:workbench.explorer.openEditorsView,workbench.explorer.fileView in workbench.view.explorer
+2024-10-30 22:48:18.495 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-10-30 22:48:19.666 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-10-30 22:48:20.205 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-10-30 22:48:21.525 [info] View visibility state changed: workbench.views.sync.localActivity is now visible Settings Sync
+2024-10-30 22:48:21.526 [info] Showing view workbench.views.sync.localActivity in the container workbench.view.sync
+2024-10-30 22:48:43.032 [info] Added views:workbench.views.sync.remoteActivity,workbench.views.sync.machines,workbench.views.sync.localActivity,workbench.views.sync.externalActivity in workbench.view.sync
+2024-10-30 22:49:10.247 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2024-10-30 22:49:10.270 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2024-10-30 22:51:00.185 [info] Added views:uncanny-cognitive-complexity.openview in workbench.view.extension.uncanny-cognitive-complexity
+2024-10-30 22:51:00.187 [info] Added views:mysql in workbench.view.explorer
+2024-10-30 22:51:00.188 [info] Added views:vscode-serial-monitor.monitor0 in workbench.view.extension.vscode-serial-monitor-tools
+2024-10-30 22:51:00.258 [info] Added views:workbench.panel.chat.view.copilot in workbench.panel.chatSidebar
+2024-10-30 22:51:04.855 [info] Added views:workbench.panel.comments in workbench.panel.comments
+2024-10-30 22:51:41.194 [info] Added views:latex-workshop-commands,latex-workshop-structure,latex-workshop-snippet-view in workbench.view.extension.latex-workshop-activitybar

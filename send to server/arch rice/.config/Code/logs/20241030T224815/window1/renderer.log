@@ -1,0 +1,17 @@
+2024-10-30 22:48:18.193 [info] Started local extension host with pid 9820.
+2024-10-30 22:48:21.356 [info] [perf] Render performance baseline is 49ms
+2024-10-30 22:50:59.815 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-10-30 22:50:59.816 [warning] [zobo.php-intellisense]: Cannot register 'php.executablePath'. This property is already registered.
+2024-10-30 22:51:00.229 [error] Extension 'ms-vscode.cpptools' CANNOT register tool without name and modelDescription: {"name":"cpptools-lmtool-configuration","toolReferenceName":"cpp","displayName":"C/C++ configuration","canBeReferencedInPrompt":true,"userDescription":"Configuration of the active C or C++ file, like language standard version and target platform.","modelDescription":"For the active C or C++ file, this tool provides: the language (C, C++, or CUDA), the language standard version (such as C++11, C++14, C++17, or C++20), the compiler (such as GCC, Clang, or MSVC), the target platform (such as x86, x64, or ARM), and the target architecture (such as 32-bit or 64-bit).","icon":"$(file-code)","when":"(config.C_Cpp.experimentalFeatures =~ /^[eE]nabled$/)"}
+2024-10-30 22:51:04.894 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2024-10-30 22:51:04.894 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2024-10-30 22:51:04.956 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2024-10-30 22:51:12.915 [error] Cannot read the extension from /home/ste/.vscode/extensions/github.copilot-chat-0.22.0: ScanningExtension: Cannot read the extension from /home/ste/.vscode/extensions/github.copilot-chat-0.22.0
+    at Ql.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)
+    at async Xl.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:78095)
+2024-10-30 22:51:20.897 [error] Cannot read the extension from /home/ste/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.20: ScanningExtension: Cannot read the extension from /home/ste/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.20
+    at Ql.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)
+    at async Xl.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:78095)
+2024-10-30 22:51:21.166 [error] Cannot read the extension from /home/ste/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64: ScanningExtension: Cannot read the extension from /home/ste/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64
+    at Ql.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)
+    at async Xl.h (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:78095)

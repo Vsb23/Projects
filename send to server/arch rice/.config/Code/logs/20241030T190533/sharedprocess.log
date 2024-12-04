@@ -1,0 +1,14 @@
+2024-10-30 19:05:42.952 [info] Getting Manifest... james-yu.latex-workshop
+2024-10-30 19:05:43.235 [info] Installing extension: james-yu.latex-workshop {"productVersion":{"version":"1.94.1","date":"2024-10-05T05:44:32.189Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ste/.vscode/extensions/extensions.json","path":"/home/ste/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-30 19:05:46.934 [info] Extension signature verification result for james-yu.latex-workshop: UnknownError. Executed: true. Duration: 40ms.
+2024-10-30 19:05:48.710 [info] Extracted extension to file:///home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.5: james-yu.latex-workshop
+2024-10-30 19:05:48.728 [info] Renamed to /home/ste/.vscode/extensions/james-yu.latex-workshop-10.5.5
+2024-10-30 19:05:48.748 [info] Marked extension as uninstalled james-yu.latex-workshop-10.5.3
+2024-10-30 19:05:48.756 [info] Extension installed successfully: james-yu.latex-workshop vscode-userdata:/home/ste/.vscode/extensions/extensions.json
+2024-10-30 19:05:48.829 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ste/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ste/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)

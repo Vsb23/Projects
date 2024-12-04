@@ -1,0 +1,4 @@
+2024-10-30 22:51:28.649 [info] No document found. Skipping.
+2024-10-30 22:51:46.759 [info] Computing complexity for latex using length method.
+2024-10-30 22:51:46.761 [info] Calling complexity-wasm with length as algorithm.
+2024-10-30 22:51:46.761 [info] Done. Complexity is 109.

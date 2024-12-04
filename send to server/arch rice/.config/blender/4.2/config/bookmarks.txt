@@ -1,0 +1,6 @@
+[Bookmarks]
+!Home
+/home/ste/
+[Recent]
+/home/ste/OneDrive/
+/home/ste/Scrivania/

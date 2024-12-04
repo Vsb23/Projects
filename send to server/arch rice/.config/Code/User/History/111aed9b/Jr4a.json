@@ -1,0 +1,57 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "White Night",
+    "editor.tokenColorCustomizations": {
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        }
+    },
+    "workbench.statusBar.visible": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.mouseWheelZoom": true,
+    "php.executablePath": "C:\\Users\\stefa\\Desktop\\php\\php.exe",
+    "editor.minimap.enabled": true,
+    "settingsSync.ignoredExtensions": [
+        "arthurwhite.white"
+    ],
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#fff",
+        "editorBracketHighlight.foreground2": "#fff",
+        "editorBracketHighlight.foreground3": "#fff",
+        "editorBracketHighlight.foreground4": "#fff",
+        "editor.selectionHighlightBackground": "#ffffff00",
+        "editorCursor.foreground": "#fff",
+        "editorBracketMatch.background": "#808080de",
+        "editorLineNumber.foreground": "#808080de",
+        "editor.selectionBackground": "#808080de",
+        "editor.selectionForeground": "#808080de",
+        "editor.wordHighlightBackground": "#808080de",
+        "editorRuler.foreground": "#808080de",
+        "editor.lineHighlightBackground": "#8080802c",
+        "activityBar.activeBackground": "#fff",
+        "activityBar.inactiveForeground": "#808080de",
+        "activityBarBadge.background": "#b8b8b8",
+        "breadcrumb.foreground": "#808080de",
+        "button.background": "#808080de",
+        "button.hoverBackground": "#808080de",
+        "minimap.selectionHighlight": "#ffffff00",
+        "minimapSlider.background": "#fff",
+    }
+}

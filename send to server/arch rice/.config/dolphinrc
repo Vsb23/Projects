@@ -1,0 +1,15 @@
+[FoldersPanel]
+LimitFoldersPanelToHome=false
+
+[General]
+LockPanels=false
+Version=202
+ViewPropsTimestamp=2024,9,29,21,35,46.781
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled

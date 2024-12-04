@@ -1,0 +1,82 @@
+﻿[menu]
+game = Giochi
+media = Media
+slot2 = Slot-2
+version = IT
+firmware = Italy Version
+
+[font]
+main = wenquanyi_9pt.pcf
+language = 4
+
+[message box]
+yes = Sì
+no = No
+ok = OK
+cancel = Annulla
+
+[progress window]
+processing save = Elaborazione… Non spegnere!
+first use sd = Controllo SD per il primo utilizzo…
+gba load = Caricamento gioco GBA…
+gba save load = Caricamento salvataggio GBA…
+gba save store = Elaborazione salvataggio GBA… Non spegnere!
+
+[setting window]
+ok = OK
+title = Impostazioni
+cancel = Annulla
+confirm = Conferma
+confirm text = Salvare impostazioni correnti?
+close = Chiudi
+system = Sistema
+
+[system setting]
+title = Opzioni di Sistema
+
+[rom info]
+title = Proprietà Rom
+file date = Ultima modifica: %d/%d/%d %02d:%02d:%02d(GMT)
+file size = Dimensione: %s
+save type = Salvataggio: %s
+game code = Codice Gioco: %s
+
+[disk info]
+total = Capacità Disco: %s
+used = Spazio utilizzato: %s
+free = Spazio libero: %s
+
+[no free space]
+title = Errore. Spazio terminato.
+text = Non c'è abbastanza spazio libero.
+
+[sd card error]
+title = Errore di accesso alla microSD
+text = Impossibile accedere alla microSD, assicuarati che la microSD sia formattata e inserita correttamente.
+
+[no gba card]
+title = Cartuccia GBA non trovata
+text = Non è inserita nessuna cartuccia nello SLOT-2
+
+[gba warn]
+title = Attenzione!: Dimensione ROM GBA
+text = Le ROM GBA più grandi di 32M non sono al momento supportate!
+
+[patches]
+download play = DS Download Play
+cheating system = Cheat/Action Replay
+reset in game = Soft-Reset
+
+[switches]
+Enable = Abilita
+Disable = Disabilita
+
+[cheats]
+title = Cheats
+generate = Conferma
+cctitle = Consigli
+cctext = Creare un nuovo file?
+dirtitle = Errore
+dirtext = Una directory con lo stesso nome esiste già.
+
+[end]

@@ -10,7 +10,7 @@
 @define-color bg_active rgba(100, 100, 100, 0.5);
 
 /*base border color*/
-@define-color border_main rgba(255, 255, 255, 0.2);
+@define-color border_main rgba(0, 0, 0, 1);
 
 /*text color for entries, views and content in general */
 @define-color content_main white;
@@ -20,9 +20,9 @@
 * {
 	text-shadow: none;
 	box-shadow: none;
-  border: none;
+  border:none;
   border-radius: 0;
-	font-family: "Segoe UI", "Ubuntu";
+	font-family: "JetBrainsMono Nerd Font", "Ubuntu";
   font-weight: 600;
   font-size: 13px;
 	
@@ -30,9 +30,12 @@
 }
 
 window#waybar {
-  background:  @bg_main;
-  border-top: 1px solid @border_main;
+  background:  @border_main;
   color: @content_main;
+  border-radius: 6;
+  border-width: 2px;
+  border-style: solid;
+  border-color: @content_main;
 }
 
 tooltip {
@@ -151,16 +154,6 @@ tooltip label{
 }
 #tray > widget:hover {
 	background: @bg_hover;
-}
-
-#pulseaudio {
-	font-family: "JetBrainsMono Nerd Font";
-	padding-left: 3px;
-  padding-right: 3px;
-	transition: all 0.25s cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-#pulseaudio:hover {
- 	background: @bg_hover;
 }
 
 #network {

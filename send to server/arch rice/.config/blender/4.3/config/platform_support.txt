@@ -1,0 +1,9 @@
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.57, 6.10.10-arch1-1)/4.6 (Core Profile) Mesa 24.2.3-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.2-arch1-1)/4.6 (Core Profile) Mesa 24.2.4-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.4-arch2-1)/4.6 (Core Profile) Mesa 24.2.5-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.5-arch1-1)/4.6 (Core Profile) Mesa 24.2.5-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.6-arch1-1)/4.6 (Core Profile) Mesa 24.2.6-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.7-arch1-1)/4.6 (Core Profile) Mesa 24.2.7-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.8-arch1-2)/4.6 (Core Profile) Mesa 24.2.7-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.11.9-arch1-1)/4.6 (Core Profile) Mesa 24.2.7-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 18.1.8, DRM 3.59, 6.12.1-arch1-1)/4.6 (Core Profile) Mesa 24.2.7-arch1.1}=SUPPORTED

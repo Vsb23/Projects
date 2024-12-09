@@ -1,0 +1,10 @@
+Mesh ▸ Extrude (Alt E) ▸ Extrude Manifold
+Edge (Ctrl E) ▸ Edge Slide
+Face (Ctrl F) ▸ Tris to Quads|Alt J
+Vertex (Ctrl V) ▸ Extrude Vertices
+Mesh ▸ Clean Up ▸ Merge by Distance
+Mesh ▸ Cube
+Image ▸ Reference
+Mesh ▸ Plane
+Generate ▸ Mirror
+Object ▸ Show/Hide ▸ Show Hidden Objects|Alt H

@@ -6,7 +6,6 @@ Generate ▸ Array
 Mesh ▸ Merge (M) ▸ At Center
 Mesh ▸ Merge (M) ▸ At Cursor
 Mesh ▸ Merge (M) ▸ Collapse
-Mesh ▸ Cube
 Mesh ▸ Cylinder
 Generate ▸ Boolean
 Curve ▸ Bézier
@@ -18,3 +17,4 @@ Deform ▸ Curve
 Curve ▸ Circle
 Deform ▸ Lattice
 Object ▸ Show/Hide ▸ Show Hidden Objects|Alt H
+Mesh ▸ Cube

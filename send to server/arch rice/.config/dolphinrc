@@ -3,6 +3,7 @@ LimitFoldersPanelToHome=false
 
 [General]
 LockPanels=false
+ModifiedStartupSettings=true
 Version=202
 ViewPropsTimestamp=2024,9,29,21,35,46.781
 

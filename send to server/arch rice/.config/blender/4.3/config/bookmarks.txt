@@ -1,0 +1,8 @@
+[Bookmarks]
+!Home
+/home/ste/
+[Recent]
+/home/ste/repos/Projects/3D/
+/home/ste/OneDrive/
+!Desktop
+/home/ste/Scrivania/

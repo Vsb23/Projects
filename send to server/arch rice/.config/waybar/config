@@ -2,7 +2,9 @@
     "layer": "top",
     "position": "bottom",
     "height": 40,
-    "margin-bottom": 0,
+    "margin-bottom": 5,
+    "margin-left": 8,
+    "margin-right": 8,
     "spacing": 5,
     "modules-left": [
         "hyprland/workspaces"
@@ -66,7 +68,7 @@
                 "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
             }
         },
-   		"on-click": "microsoft-edge-stable https://calendar.google.com/calendar/u/0/r/week?pli=1"
+   		"on-click": "zen-browser https://calendar.google.com/calendar/u/0/r/week?pli=1"
     },
     "network": {
     	"interval": 5,

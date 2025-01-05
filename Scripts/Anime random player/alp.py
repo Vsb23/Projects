@@ -8,11 +8,16 @@ mpv = [item.pid for item in psutil.process_iter() if item.name() == 'mpv.exe']
 
 
 with os.scandir('series') as series:
-    anime = random.choice(list(series))
-    episode = os.listdir(anime.path)
-    print(f'Now watching: {anime.name} episode: {episode[0]}')
-    os.system(f'mpv series/"{anime.name}/{episode[0]}"')
-    while mpv == []:
-        os.remove(f"series/{anime.name}/{episode[0]}")
-        print(f"Eliminato il file {episode[0]} di {anime.name}")
+    list_ser = list(series)
+    for i in range(5):
+        anime = random.choice(list_ser)
+        print(anime.name)
+        with os.scandir(anime) as episodes:
+            list_ep = list(episodes)
+            max_episodes = max(len(list_ep), 5) #serve per evitare che il 
+            for i in range(random.randint(1, max_episodes)):
+                f = open("playlist.txt", "a")
+                f.write(str(anime.name) + "/" + str(list_ep[i].name) + "\n")
+                f.close()
+                print("scritto file")
 

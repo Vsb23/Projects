@@ -2,12 +2,11 @@ import os
 import psutil
 import random
 from pathlib import Path
-
+import subprocess
+import mpv
+import time
 
 animes = os.listdir('series')
-
-mpv = [item.pid for item in psutil.process_iter() if item.name() == 'mpv.exe']
-
 
 
 with os.scandir('series') as series:
@@ -23,7 +22,18 @@ with os.scandir('series') as series:
                 f.write('series/' + str(anime.name) + "/" + str(list_ep[i].name) + "\n")
                 f.close()
                 print("scritto file")
+
 p = Path('playlist.txt')
 p.rename(p.with_suffix('.m3u'))
-os.system('mpv --playlist=playlist.m3u')
 
+
+
+player = mpv.MPV(input_default_bindings=True, input_vo_keyboard=True)
+player.loadlist('playlist.m3u', mode='replace')
+player.command("playlist-play-index", 0)
+try:
+  while True:
+    time.sleep(1)
+except KeyboardInterrupt:
+  print("Closing MPV...")
+  player.terminate()

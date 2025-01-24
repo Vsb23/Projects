@@ -28,12 +28,23 @@ p.rename(p.with_suffix('.m3u'))
 
 
 
-player = mpv.MPV(input_default_bindings=True, input_vo_keyboard=True)
-player.loadlist('playlist.m3u', mode='replace')
-player.command("playlist-play-index", 0)
+
+player = mpv.MPV(input_default_bindings=True, input_vo_keyboard=True,player_operation_mode='pseudo-gui', osc=True)
+
+
+@player.on_key_press('q')
+
+def on_q_press():
+    player.quit()
+
+
 try:
-  while True:
-    time.sleep(1)
-except KeyboardInterrupt:
-  print("Closing MPV...")
-  player.terminate()
+    player.loadlist('playlist.m3u', mode='replace')
+    player.command("playlist-play-index", 0)
+    while player.wait_for_event(player.on_key_press('q')) is None:
+        player.terminate()
+
+except Exception as e:
+    pass
+finally:
+    print("Uscito")

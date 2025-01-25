@@ -4,7 +4,8 @@ import random
 from pathlib import Path
 import subprocess
 import mpv
-import time
+import threading
+
 
 animes = os.listdir('series')
 
@@ -27,24 +28,59 @@ p = Path('playlist.txt')
 p.rename(p.with_suffix('.m3u'))
 
 
+cond = threading.Condition()
+key = None	
 
+player = mpv.MPV(
+    input_default_bindings=False,
+    input_vo_keyboard = True,
+    terminal=True,
+    input_terminal=True,
+    osc=True
+)
 
-player = mpv.MPV(input_default_bindings=True, input_vo_keyboard=True,player_operation_mode='pseudo-gui', osc=True)
-
-
-@player.on_key_press('q')
-
-def on_q_press():
-    player.quit()
-
+def wait_key(player: mpv.MPV) -> str:
+	
+	cond = threading.Condition()
+	key = None
+	
+	@player.on_key_press("q")
+	def on_q():
+		nonlocal key
+		key = 'q'
+		with cond:
+			cond.notify()
+	
+	@player.on_key_press("<")
+	def on_prev():
+		nonlocal key
+		key = '<'
+		with cond:
+			cond.notify()
+	
+	
+	@player.on_key_press(">")
+	def on_next():
+		nonlocal key
+		key = '>'
+		with cond:
+			cond.notify()
+	
+	with cond:
+		cond.wait(timeout=None)
+	on_q.unregister_mpv_key_bindings()
+	on_next.unregister_mpv_key_bindings()
+	on_prev.unregister_mpv_key_bindings()
+	
+	return key
 
 try:
     player.loadlist('playlist.m3u', mode='replace')
     player.command("playlist-play-index", 0)
-    while player.wait_for_event(player.on_key_press('q')) is None:
-        player.terminate()
-
+    player.wait_until_playing()
+    keypressed = wait_key(player)
+    input(f"hai premuto {keypressed}")
 except Exception as e:
-    pass
+	pass
 finally:
-    print("Uscito")
+	player.terminate()
